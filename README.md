@@ -51,3 +51,5 @@ create other ways to sort your data (ie by quantity)
 change the 'remove' button's functionality to actually remove the item from the list
 add a 'later' button that toggles the css (gray text, strikeout etc.) if the item should be purchased later
 expand your app to allow for images (the images should be an http url ) and then render the image in your app - some images may take longer to load and not appear correctly, look into react life cycle events and/or lazy loading (if that is too much just keep trying images, some will work and save lifecycles/lazy loading for later)
+
+
